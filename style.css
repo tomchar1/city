@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+#mycanvas {
+  border: 2px solid black;
+}
+
+#moonimg {
+  display: none;
+}
+
+#birdimg {
+  display: none;
+}
+
+#carimg {
+  display: none;
+}
